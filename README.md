@@ -44,10 +44,16 @@ Checks if WordPress exists, if it doesn’t then it installs the chart.#
 
 ![Screenshot 2023-05-16 210052](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/87dfcdec-a171-4568-9f19-23620360e008)
 
+![Screenshot 2023-05-16 224908](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/6b887198-872c-4cff-a194-b8fef35c8324)
+
+
+Retrieving the credentials but they needed to be in a different base to work.
+
 ![Screenshot 2023-05-16 211708](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/e5bb5992-c8fc-4b8c-a159-50fb8c8f0b37)
 
 ![Screenshot 2023-05-16 212006](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/ff754511-0dbb-42b3-9409-e8176e8e6064)
 
+End of File.
 
 
 
