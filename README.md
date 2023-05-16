@@ -9,6 +9,9 @@ https://github.com/bitnami/charts/tree/main/bitnami/wordpress )#
 
 ![image](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/fe0cf449-5187-4931-909a-a8e5a957675d)
 
+![Screenshot 2023-05-16 215809](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/a5ff0c07-eeaf-455b-9bc7-c7faadf3725e)
+
+
 ![image](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/5e5ccdd2-9909-40b7-9749-e6eaf3365bab)
 
 In order to have the helmchart for WordPress available locally, I forked the repo and downloaded it locally via GitHub Desktop.
@@ -40,6 +43,13 @@ Checks if WordPress exists, if it doesn’t then it installs the chart.#
 ![Screenshot 2023-05-16 210354](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/b8d4b067-607e-4a29-953b-c471ed970818)
 
 ![Screenshot 2023-05-16 210052](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/87dfcdec-a171-4568-9f19-23620360e008)
+
+![Screenshot 2023-05-16 211708](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/e5bb5992-c8fc-4b8c-a159-50fb8c8f0b37)
+
+![Screenshot 2023-05-16 212006](https://github.com/atmarko/Final-Project-Assessment-for-Scalefocus-Academy/assets/119135923/ff754511-0dbb-42b3-9409-e8176e8e6064)
+
+
+
 
 
 
